@@ -1,0 +1,14 @@
+.cuerpo {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+
+    h1 {
+        font-size: 3rem;
+        color: #d45050;
+        text-align: center;
+    }
+}
