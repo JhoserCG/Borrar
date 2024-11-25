@@ -4,11 +4,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aquamarine;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyOM6-0ayAoSrGV9eH-wyT3FLyYD9tAyHPQ&s");
+    background-repeat: no-repeat;
+    background-color: #272525;
 
     h1 {
         font-size: 3rem;
-        color: #d45050;
+        color: #fff;
+        text-align: center;
+    }
+    p {
+        font-size: 1.5rem;
+        color: #fff;
         text-align: center;
     }
 }
